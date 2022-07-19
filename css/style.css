@@ -593,6 +593,11 @@ input[type=text], select, textarea {
 	border: 2px solid #f9004d;
 	cursor: pointer;
 }
+
+map {
+  display: inline;
+}
+
 footer{
 	position: relative;
 	width: 100%;
